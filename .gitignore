@@ -1,3 +1,4 @@
 *.ipynb_checkpoints*
-data/*
+data/external/*
+data/datasets/*
 notebooks/scratch.ipynb
